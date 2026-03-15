@@ -1,0 +1,49 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Bb]ee/
+sysinfo.txt
+
+# Cache subfolders
+[Ll]ibrary/Artifacts/
+[Ll]ibrary/PackageCache/
+
+# Recordings (optional)
+[Rr]ecordings/
+
+# JetBrains Rider
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Visual Studio cache directory
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# Gradle cache
+.gradle/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+
+# Build outputs and large files
+*.exe
+*.apk
+*.aab
+*.zip
+*.mp4
+*.wav
+*.mov
+*.avi
+*.iso
